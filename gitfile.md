@@ -4,3 +4,4 @@
 手动编辑
 退出
 Make some changes to gitfile.md
+touch file hello.py
